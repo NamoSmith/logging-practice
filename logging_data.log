@@ -1,0 +1,10 @@
+Date-Time : 2021-11-05 19:35:37,820, Name : root, Level : WARNING : This is a warning message.
+Date-Time : 2021-11-05 19:35:37,820, Name : root, Level : Level 35 : Fail on level 35.
+Date-Time : 2021-11-05 19:35:37,820, Name : root, Level : ERROR : This is an error message.
+Date-Time : 2021-11-05 19:35:37,820, Name : root, Level : CRITICAL : This is a critical message.
+Date-Time : 2021-11-05 19:35:37,820, Name : foo, Level : DEBUG : This is a debug message.
+Date-Time : 2021-11-05 19:35:37,820, Name : foo, Level : INFO : This is an info message.
+Date-Time : 2021-11-05 19:35:37,820, Name : foo, Level : WARNING : This is a warning message.
+Date-Time : 2021-11-05 19:35:37,820, Name : foo, Level : Level 35 : Fail on level 35.
+Date-Time : 2021-11-05 19:35:37,821, Name : foo, Level : ERROR : This is an error message.
+Date-Time : 2021-11-05 19:35:37,821, Name : foo, Level : CRITICAL : This is a critical message.
