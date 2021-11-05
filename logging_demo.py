@@ -27,8 +27,6 @@ def logging_test(logger):
     logger.error("This is an error message.")
     # critical
     logger.critical("This is a critical message.")
-    # fatal
-    logger.fatal("This is a fatal message.")
 
 
 def simple_config():
